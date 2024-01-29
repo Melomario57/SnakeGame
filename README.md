@@ -1,5 +1,5 @@
 # SnakeGame
-This is the classic snake game and used it just for practicing my javascript skills.
+This is the classic snake game and used it for improving my javascript skills.
 
 
 
